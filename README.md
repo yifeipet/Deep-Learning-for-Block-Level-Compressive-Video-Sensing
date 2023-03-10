@@ -1,4 +1,4 @@
-# Deep-Learning-for-Block-Level-Compressive-Video-Sensing
+# Reference Codes for Deep Learning for Block-Level Compressive Video Sensing
 Reference codes for our ISCAS 2020 paper, "Deep Learning for Block-Level Compressive Video Sensing"
 
 If you find our codes useful for your work, please consider to cite our paper:
